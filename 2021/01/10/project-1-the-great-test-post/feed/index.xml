@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Project 1: the great test post	</title>
-	<atom:link href="/2021/01/10/project-1-the-great-test-post/feed/" rel="self" type="application/rss+xml" />
-	<link>/2021/01/10/project-1-the-great-test-post/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>My ongoing projects and past work</description>
 	<lastBuildDate>Sun, 10 Jan 2021 15:29:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
