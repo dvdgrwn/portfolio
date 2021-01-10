@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>My ongoing projects and past work</description>
-	<lastBuildDate>Sun, 10 Jan 2021 15:29:09 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jan 2021 16:50:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,7 +39,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/01/testphoto-1024x471.jpg" alt="" class="wp-image-46" width="618" height="284" srcset="./../../../wp-content/uploads/2021/01/testphoto-1024x471.jpg 1024w, ./../../../wp-content/uploads/2021/01/testphoto-300x138.jpg 300w, ./../../../wp-content/uploads/2021/01/testphoto-768x354.jpg 768w, ./../../../wp-content/uploads/2021/01/testphoto-1536x707.jpg 1536w, ./../../../wp-content/uploads/2021/01/testphoto-2048x943.jpg 2048w, ./../../../wp-content/uploads/2021/01/testphoto-1568x722.jpg 1568w" sizes="(max-width: 618px) 100vw, 618px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="471" src="./../../../wp-content/uploads/2021/01/testphoto-1024x471.jpg" alt="" class="wp-image-46" srcset="./../../../wp-content/uploads/2021/01/testphoto-1024x471.jpg 1024w, ./../../../wp-content/uploads/2021/01/testphoto-300x138.jpg 300w, ./../../../wp-content/uploads/2021/01/testphoto-768x354.jpg 768w, ./../../../wp-content/uploads/2021/01/testphoto-1536x707.jpg 1536w, ./../../../wp-content/uploads/2021/01/testphoto-2048x943.jpg 2048w, ./../../../wp-content/uploads/2021/01/testphoto-1568x722.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
