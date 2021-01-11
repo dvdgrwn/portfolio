@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>My ongoing projects and past work</description>
-	<lastBuildDate>Sun, 10 Jan 2021 16:50:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jan 2021 16:09:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,34 +20,41 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
-		<title>Project 1: the great test post</title>
-		<link>./../2021/01/10/project-1-the-great-test-post/index.html</link>
-					<comments>./../2021/01/10/project-1-the-great-test-post/index.html#respond</comments>
+		<title>Project 1: the great testening</title>
+		<link>./../2021/01/11/project-1-the-great-testening/index.html</link>
 		
 		<dc:creator><![CDATA[davidgrwn]]></dc:creator>
-		<pubDate>Sun, 10 Jan 2021 15:19:38 +0000</pubDate>
+		<pubDate>Mon, 11 Jan 2021 16:07:25 +0000</pubDate>
 				<category><![CDATA[Coding]]></category>
 		<category><![CDATA[Film & Photography]]></category>
 		<category><![CDATA[Game Design]]></category>
 		<category><![CDATA[Start up]]></category>
 		<category><![CDATA[Work experience]]></category>
-		<guid isPermaLink="false">./../index.html?p=43</guid>
+		<guid isPermaLink="false">./../index.html?p=70</guid>
 
-					<description><![CDATA[I need to have a good template to use for my projects, if i can direct publish like this i&#8217;d be so happy. Now lets try to inject some images. Wow! an image, im amazed and dazed and woahh.]]></description>
+					<description><![CDATA[Gee im so excited to be back. text text text text text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext&#8230; <a class="more-link" href="./../2021/01/11/project-1-the-great-testening/index.html">Continue reading <span class="screen-reader-text">Project 1: the great testening</span></a>]]></description>
 										<content:encoded><![CDATA[
-<p>I need to have a good template to use for my projects, if i can direct publish like this i&#8217;d be so happy. <br><br>Now lets try to inject some images.</p>
+<p class="has-text-align-left">Gee im so excited to be back. <br><br>text text text text text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text text</p>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="471" src="./../wp-content/uploads/2021/01/testphoto-1024x471.jpg" alt="" class="wp-image-46" srcset="./../wp-content/uploads/2021/01/testphoto-1024x471.jpg 1024w, ./../wp-content/uploads/2021/01/testphoto-300x138.jpg 300w, ./../wp-content/uploads/2021/01/testphoto-768x354.jpg 768w, ./../wp-content/uploads/2021/01/testphoto-1536x707.jpg 1536w, ./../wp-content/uploads/2021/01/testphoto-2048x943.jpg 2048w, ./../wp-content/uploads/2021/01/testphoto-1568x722.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="678" height="381" src="./../wp-content/uploads/2021/01/newpost.png" alt="" class="wp-image-72" srcset="./../wp-content/uploads/2021/01/newpost.png 678w, ./../wp-content/uploads/2021/01/newpost-300x169.png 300w" sizes="(max-width: 678px) 100vw, 678px" /></figure>
 
 
 
-<p>Wow! an image, im amazed and dazed and woahh.</p>
+<p>text text text text text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text text</p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="336" height="280" src="./../wp-content/uploads/2021/01/test-5.png" alt="" class="wp-image-73 size-full" srcset="./../wp-content/uploads/2021/01/test-5.png 336w, ./../wp-content/uploads/2021/01/test-5-300x250.png 300w" sizes="(max-width: 336px) 100vw, 336px" /></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size">more text text text text text text text texttext text text texttext text text texttext text text texttext text text texttext text text texttext text text texttext text text text</p>
+</div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../2021/01/10/project-1-the-great-test-post/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
